@@ -66,8 +66,3 @@ with(mtcars, plot(hp, mpg))
 
 Inline code is for single numbers/short text:
 We have `r nrow(mtcars)` cars.
-
-
-```{python}
-print("Hi! Python here, do you miss R already?")
-```
